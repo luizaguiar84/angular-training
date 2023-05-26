@@ -1,5 +1,13 @@
 # Memoteca
 
+## To Run Project
+
+- run `ng serve --open` to run frontEnd
+- go to folder `/backend` and run `npm start` to start fake backend api to test
+- :)
+
+
+---- 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Development server
