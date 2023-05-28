@@ -35,6 +35,7 @@ export class CriarPensamentoComponent {
         ]),
       ],
       modelo: ['modelo1'],
+      favorito: [false],
     });
   }
 
